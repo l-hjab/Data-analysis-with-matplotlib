@@ -1,6 +1,6 @@
 # Data-analysis-with-matplotlib
 
-#Source:
+# Source:
 owid-covid-data.csv
 
 Columns used:
@@ -24,7 +24,7 @@ Derived Metrics
 
 Calculated death rate: total_deaths / total_cases
 
-#Visualizations
+# Visualizations
 Line Charts
 
 Total cases over time
@@ -47,7 +47,7 @@ Heatmap
 
 Correlation between cases, deaths, and vaccination metrics
 
-💡 Key Insights
+# 💡 Key Insights
 The United States had the fastest vaccine rollout.
 
 India steadily increased coverage despite its population size.
@@ -58,18 +58,14 @@ The U.S. consistently reported the highest case counts.
 
 Death rates varied widely, possibly due to reporting differences.
 
-🛠️ Tools Used
+#  Tools Used
 Python
-
 Pandas
-
 Matplotlib
-
 Seaborn
-
 Jupyter Notebook
 
-📎 How to Run
+# How to Run
 Clone this repo:
 
 bash
